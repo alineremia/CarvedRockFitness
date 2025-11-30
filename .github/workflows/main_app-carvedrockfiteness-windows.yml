@@ -52,4 +52,4 @@ jobs:
           app-name: 'app-carvedrockfiteness-windows'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CD71EAE0C4B409FAA4A5D877EC37546 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3A80034CDEC48C49C822D706E09EFC4 }}
